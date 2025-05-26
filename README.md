@@ -2,7 +2,7 @@
 
 A full-stack web application that allows patients to schedule appointments with doctors based on real-time availability. The system offers secure authentication, dynamic time slot management, and a responsive user interface.
 
-> 🚀 [Live Demo](https://doctorappoint-frontend.onrender.com/) &nbsp;&nbsp;|&nbsp;&nbsp; 📦 [Backend Repo](https://github.com/Neha-Codes295/DocAppoint)
+> 🚀 [Live Demo](https://doctorappoint-frontend.onrender.com/) &nbsp;&nbsp;|&nbsp;&nbsp; 
 
 ---
 
